@@ -1,5 +1,0 @@
-git add .
-git commit -m "어쩌고"
-git push origin master
-
-하면 업로드!!
